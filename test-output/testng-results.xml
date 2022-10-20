@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T02:31:02 IST" name="Default suite" finished-at="2022-10-21T02:31:17 IST" duration-ms="15285">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T02:31:02 IST" name="Default test" finished-at="2022-10-21T02:31:17 IST" duration-ms="15285">
+      <class name="com.example.demo.Automation">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.example.demo.Automation@434a63ab]" started-at="2022-10-21T02:31:02 IST" name="init" finished-at="2022-10-21T02:31:04 IST" duration-ms="1980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="AdminLogin()[pri:0, instance:com.example.demo.Automation@434a63ab]" started-at="2022-10-21T02:31:04 IST" name="AdminLogin" finished-at="2022-10-21T02:31:06 IST" duration-ms="1826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminLogin -->
+        <test-method signature="AdminRegister()[pri:0, instance:com.example.demo.Automation@434a63ab]" started-at="2022-10-21T02:31:06 IST" name="AdminRegister" finished-at="2022-10-21T02:31:06 IST" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminRegister -->
+        <test-method signature="CarRegistration()[pri:0, instance:com.example.demo.Automation@434a63ab]" started-at="2022-10-21T02:31:06 IST" name="CarRegistration" finished-at="2022-10-21T02:31:07 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarRegistration -->
+        <test-method signature="UserLogin()[pri:0, instance:com.example.demo.Automation@434a63ab]" started-at="2022-10-21T02:31:07 IST" name="UserLogin" finished-at="2022-10-21T02:31:07 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogin -->
+        <test-method signature="UserRegistration()[pri:0, instance:com.example.demo.Automation@434a63ab]" started-at="2022-10-21T02:31:07 IST" name="UserRegistration" finished-at="2022-10-21T02:31:17 IST" duration-ms="9599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserRegistration -->
+        <test-method is-config="true" signature="init1()[pri:0, instance:com.example.demo.Automation@434a63ab]" started-at="2022-10-21T02:31:17 IST" name="init1" finished-at="2022-10-21T02:31:17 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init1 -->
+      </class> <!-- com.example.demo.Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
